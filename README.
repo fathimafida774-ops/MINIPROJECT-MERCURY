@@ -1,0 +1,61 @@
+# Mercury Tours – QA Testing Project
+
+## 1. Project Name
+Mercury Tours – Web Application Testing
+
+## 2. Project Overview
+This project focuses on testing the Mercury Tours web application to verify its functionality, usability, integration, and browser compatibility.
+
+The project includes manual test case design and execution, defect reporting, test result documentation, and testing summary/sign-off documentation.
+
+## 3. Application Name
+Mercury Tours
+
+## 4. Application URL
+https://demo.guru99.com/test/newtours
+
+
+ ## 5. Testing Scope / Modules
+The following 7 areas were covered:
+
+1. Login
+2. Registration
+3. Flight Search
+4. Navigation
+5. Support / Contact
+6. Special Offers and Flight Prices
+7. External Links
+
+## 6. Testing Types Performed
+- Functional Testing
+- Regression Testing
+- Integration Testing
+- Browser Compatibility Testing
+
+## 7. Tools and Technologies
+- Microsoft Excel – Test case and test execution documentation
+- Web browser – Application testing
+- Git / GitHub – Project version control and repository
+
+ ## 8. Test Execution Summary
+
+| Metric | Result |
+
+| Total Test Cases | 88 |
+| Passed | 49 |
+| Failed | 39 |
+
+## 9. Defect Summary
+Total Defects Identified: 39
+
+## 10. Manual Testing
+Manual testing activities included:
+- Test case design
+- Test case execution
+- Functional validation
+- Regression testing
+- Integration testing
+- Browser compatibility checks
+- Defect identification and documentation
+- Test execution summary
+- Sign-off documentation
